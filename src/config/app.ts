@@ -11,8 +11,7 @@ export const appConfig = {
 
 // Firebase server key for sending push notifications
 export const fcmServerKey = {
-  key:
-    'AAAAf1fxlDw:APA91bGx73mwQk_vNfouBTYDRAI1RbzwfH-ssJZZw4o_OHC-UNBKnuS6WqRkyM388RbJ0GuKJRv2AvOKOFPtLRo6fogFsWxqY1owMAwH03xhJMe_orKj6Z22Gh4DIayrnaQuxMYi4G2I',
+  key: 'adsfsadfsad',
 };
 
 export const dbConfig: Options = {
